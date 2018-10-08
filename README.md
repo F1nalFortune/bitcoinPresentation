@@ -1,4 +1,4 @@
- Presentation of NodeJS
+ Presentation of Bitcoin Whitepaper 
 ========================
 
-Few slides to introduce NodeJS to my team. [Online slides](http://camelaissani.github.io/nodejs-presentation)
+Few slides to discuss the basics of the whitepaper Bitcoin:A Peer-to-Peer Electronic Cash System
